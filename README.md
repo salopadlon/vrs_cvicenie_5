@@ -16,11 +16,10 @@
 
 ### 3. zvolenie názvu projektu (všetko ostatné je už dobre nastavené od začiatku)
 
+- projekt je týmto krokom vytvorený a prechádza sa do prostredia CubeMX, kde sa konfigurujú periférie MCU
 <p align="center">
     <img src="https://github.com/VRS-Predmet/vrs_cvicenie_5/blob/master/images/vyber_nazvu.png" width="350">
 </p>
-
-   - projekt je týmto krokom vytvorený a prechádza sa do prostredia CubeMX, kde sa konfigurujú periférie MCU
 
 ### 4. konfigurácia periférii MCU
 
