@@ -1,5 +1,6 @@
 # Náplň cvičenia
-- s pomocou CubeMX vytvoriť nový projekt a nastaviť počiatočnú konfiguráciu mikrokontrolera
+##### - s pomocou CubeMX vytvoriť nový projekt a nastaviť počiatočnú konfiguráciu mikrokontrolera
+##### - V názve adresy kam vytvárame projektu sa nesmie nachádzať diakritika ani medzery (može to sposobovať problemy)!
 
 # CubeMX a nový projekt
 ### 1. vytvorenie nového STM32 projektu
